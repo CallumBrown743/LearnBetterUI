@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "220778765027",
+    "firebase_url": "https://learn-goodr.firebaseio.com",
+    "project_id": "learn-goodr",
+    "storage_bucket": "learn-goodr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220778765027:android:c38c644e40114f15",
+        "android_client_info": {
+          "package_name": "com.example.callu.learngoodr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220778765027-1m917a9umemvg8ut0urtaruks8otdsno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callu.learngoodr",
+            "certificate_hash": "b17dbd8441bfe6883a7e38f8bcaa10f9853c0738"
+          }
+        },
+        {
+          "client_id": "220778765027-acvgjo648lfh9pc84os8ijcdcnlo21l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcO-kJrBLxcXAmfo0HzZiCx81ehY3l1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220778765027-acvgjo648lfh9pc84os8ijcdcnlo21l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220778765027:android:4d04e49ed45fdfa0",
+        "android_client_info": {
+          "package_name": "com.example.callu.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220778765027-5n8j23mqjvvr1bdifjgnn6kpltl07kne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callu.myapplication",
+            "certificate_hash": "b17dbd8441bfe6883a7e38f8bcaa10f9853c0738"
+          }
+        },
+        {
+          "client_id": "220778765027-acvgjo648lfh9pc84os8ijcdcnlo21l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcO-kJrBLxcXAmfo0HzZiCx81ehY3l1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220778765027-acvgjo648lfh9pc84os8ijcdcnlo21l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220778765027:android:21d98b84d4900633",
+        "android_client_info": {
+          "package_name": "com.example.callu.learnbettrsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220778765027-4t42q83iqosclk21sge44a4toogofa76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callu.learnbettrsignin",
+            "certificate_hash": "b17dbd8441bfe6883a7e38f8bcaa10f9853c0738"
+          }
+        },
+        {
+          "client_id": "220778765027-acvgjo648lfh9pc84os8ijcdcnlo21l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcO-kJrBLxcXAmfo0HzZiCx81ehY3l1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220778765027-acvgjo648lfh9pc84os8ijcdcnlo21l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220778765027:android:f2ea29d782f80a27",
+        "android_client_info": {
+          "package_name": "com.example.callu.learnbettrui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220778765027-42786efe6l43nudoh7ft15tjf7080nvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callu.learnbettrui",
+            "certificate_hash": "b17dbd8441bfe6883a7e38f8bcaa10f9853c0738"
+          }
+        },
+        {
+          "client_id": "220778765027-acvgjo648lfh9pc84os8ijcdcnlo21l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcO-kJrBLxcXAmfo0HzZiCx81ehY3l1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220778765027-acvgjo648lfh9pc84os8ijcdcnlo21l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
